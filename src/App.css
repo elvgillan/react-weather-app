@@ -1,4 +1,8 @@
-.App {
+body {
+  background: #27374d;
+}
+
+.App .container {
   max-width: 500px;
   margin: 30px auto;
 }
@@ -13,5 +17,5 @@
   font-size: 11px;
   margin: 10px 0;
   text-align: center;
-  color: rgb(135, 135, 135);
+  color: #ffffff;
 }
